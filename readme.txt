@@ -8,5 +8,3 @@ Git has a mutable index called stage.
 
 撤销
 
-
-aaa
